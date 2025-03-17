@@ -11,9 +11,9 @@
     <link rel="icon" href="https://www.debian.org/favicon.ico" type="image/x-icon">
 </head>
 <body>
-  <main>
-      <p>Content.</p>
-  </main>
+    <main>
+        <p>Content.</p>
+    </main>
 </body>
 </html>
 ```
@@ -46,25 +46,25 @@
     </script>
 </head>
 <body>
-  <header>
-      <h1>Title</h1>
-  </header>
-
-  <main>
-      <article>
-          <h2>An Article</h2>
-          <p>Content.</p>
-          <section>
-              <h3>A Section Within the Article</h3>
-              <p>Provides more detailed information.</p>
-          </section>
-      </article>
-  </main>
-
-  <footer>
-      <p>&copy; 2025 Company</p>
-      <p><a href="https://browsehappy.com/">Update your browser for a better experience.</a></p>
-  </footer>
+    <header>
+        <h1>Title</h1>
+    </header>
+  
+    <main>
+        <article>
+            <h2>An Article</h2>
+            <p>Content.</p>
+            <section>
+                <h3>A Section Within the Article</h3>
+                <p>Provides more detailed information.</p>
+            </section>
+        </article>
+    </main>
+  
+    <footer>
+        <p>&copy; 2025 Company</p>
+        <p><a href="https://browsehappy.com/">Update your browser for a better experience.</a></p>
+    </footer>
 </body>
 </html>
 ```
