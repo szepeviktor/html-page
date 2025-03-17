@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex, nofollow">
-    <title>Semantic web page</title>
+    <title>A web page</title>
     <link rel="icon" href="https://www.debian.org/favicon.ico" type="image/x-icon">
 </head>
 <body>
